@@ -25,7 +25,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;SPS制备ZrB2陶瓷&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;SPS制备ZrB&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 16px; caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;₂&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;陶瓷&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-10" target="1TKEwDiTVpqhxXuKWLAY-12">
