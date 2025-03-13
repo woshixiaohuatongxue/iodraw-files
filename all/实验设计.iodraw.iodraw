@@ -65,21 +65,22 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度大小" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="340" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-21" target="1TKEwDiTVpqhxXuKWLAY-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-23">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="1TKEwDiTVpqhxXuKWLAY-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="340" as="targetPoint" />
+            <mxPoint x="125" y="520" as="sourcePoint" />
+            <mxPoint x="225" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="405" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="115" y="370" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
