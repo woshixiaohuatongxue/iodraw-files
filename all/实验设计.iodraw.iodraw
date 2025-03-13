@@ -75,13 +75,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="405" />
-              <mxPoint x="190" y="340" />
+              <mxPoint x="220" y="405" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="115" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="385" width="70" height="40" as="geometry" />
+          <mxGeometry x="90" y="520" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
