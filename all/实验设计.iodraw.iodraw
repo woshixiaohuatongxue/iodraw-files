@@ -12,13 +12,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TKEwDiTVpqhxXuKWLAY-9">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-29" value="不同浓度ZrC&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1TKEwDiTVpqhxXuKWLAY-9">
           <mxGeometry x="-0.4403" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-5" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;熔盐法制备ZrC晶须&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-6" target="1TKEwDiTVpqhxXuKWLAY-10">
           <mxGeometry relative="1" as="geometry">
