@@ -32,6 +32,9 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-10" target="1TKEwDiTVpqhxXuKWLAY-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-10" target="1TKEwDiTVpqhxXuKWLAY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;??&amp;quot;, &amp;quot;??&amp;quot;, ui-sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Inter, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, sans-serif; font-size: 16px; caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;ZrB₂-ZrC复合粉体球磨混合&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="216" height="60" as="geometry" />
         </mxCell>
@@ -39,7 +42,7 @@
           <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-13" value="物理性能" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="294" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
