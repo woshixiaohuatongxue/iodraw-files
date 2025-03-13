@@ -65,16 +65,6 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度大小" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="119" y="390" as="sourcePoint" />
-            <mxPoint x="114" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="119" y="365" />
-              <mxPoint x="114" y="365" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="390" width="70" height="40" as="geometry" />
         </mxCell>
