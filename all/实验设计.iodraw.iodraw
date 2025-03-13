@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;SPS制备ZrB2陶瓷&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-10" target="1TKEwDiTVpqhxXuKWLAY-12">
           <mxGeometry relative="1" as="geometry" />
