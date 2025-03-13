@@ -58,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度大小" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-21">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="30" y="395" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-23">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="190" y="390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
