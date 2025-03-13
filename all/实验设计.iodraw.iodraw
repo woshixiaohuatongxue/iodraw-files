@@ -44,8 +44,8 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-13" value="物理性能" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
