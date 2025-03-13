@@ -27,10 +27,10 @@
           <mxGeometry x="360" y="230" width="216" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-12" value="微观形貌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-13" value="物理性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
