@@ -45,7 +45,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;??&amp;quot;, &amp;quot;??&amp;quot;, ui-sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Inter, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, sans-serif; font-size: 16px; caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;ZrB₂-ZrC复合材科&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px; caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ZrB₂-ZrC复合材科&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="216" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-12" value="微观形貌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="390" width="70" height="40" as="geometry" />
+          <mxGeometry x="105" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-23">
           <mxGeometry relative="1" as="geometry">
