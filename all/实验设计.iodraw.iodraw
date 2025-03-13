@@ -59,11 +59,17 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-13" value="物理性能" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-20" target="1TKEwDiTVpqhxXuKWLAY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度大小" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="390" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-21" target="1TKEwDiTVpqhxXuKWLAY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="400" width="70" height="30" as="geometry" />
+          <mxGeometry x="102" y="392" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="219" y="363" width="70" height="56.5" as="geometry" />
