@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="190" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="190" y="390" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
