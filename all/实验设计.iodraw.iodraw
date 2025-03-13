@@ -50,7 +50,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px; caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ZrB₂-ZrC复合材科&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); caret-color: rgb(56, 58, 66); text-wrap-mode: nowrap; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;ZrB₂-ZrC复合材科&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="216" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-12" value="微观形貌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
