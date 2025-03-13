@@ -71,14 +71,17 @@
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-23" target="1TKEwDiTVpqhxXuKWLAY-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TKEwDiTVpqhxXuKWLAY-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="355" />
+              <mxPoint x="226" y="355" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-32" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=21;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
