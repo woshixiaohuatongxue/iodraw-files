@@ -45,12 +45,12 @@
           <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-20" value="粒度大小" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
-          <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="物理性能" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
+        <mxCell id="1TKEwDiTVpqhxXuKWLAY-23" value="保温时间" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
