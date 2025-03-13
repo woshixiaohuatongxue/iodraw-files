@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-21" value="温度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=21;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="102" y="392" width="70" height="30" as="geometry" />
+          <mxGeometry x="102" y="389.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TKEwDiTVpqhxXuKWLAY-38" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="219" y="363" width="70" height="56.5" as="geometry" />
